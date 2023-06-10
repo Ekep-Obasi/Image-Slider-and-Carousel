@@ -1,7 +1,6 @@
 # Image Slider Carousel
 
-A very simple Carousel built with react
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A very simple Carousel bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
