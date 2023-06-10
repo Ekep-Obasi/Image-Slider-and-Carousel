@@ -1,4 +1,4 @@
-# Image Slider Carousel
+# Coursel Slider Image
 
 A very simple Carousel bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
